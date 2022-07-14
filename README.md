@@ -5,7 +5,7 @@
 The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/) on Udemy.  
 - 🧑‍💻 This is really an extention of the previous Colab Notebook project.  It does provide some quantitative and qualitative trends regarding the use of Stack Overflow. Download the csv and ipynb files to have a go yourself and draw your own conclusions.
 
-![Screenshot](LanguagePopularity.png)
+![Screenshot](LanguagePopularity.jpg)
 
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me...
