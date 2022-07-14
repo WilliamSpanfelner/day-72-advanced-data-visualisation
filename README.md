@@ -1,12 +1,11 @@
+![Screenshot](LanguagePopularity.jpg)
+
 # Charting the Popular Programming Languages with MatPlotLib, Pandas, Python in Colab Notebooks.
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
 - 🌱 I’m currently learning Python with the London App Brewery and Angela Yu's [100 Days of Code: 
 The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/) on Udemy.  
 - 🧑‍💻 This is really an extention of the previous Colab Notebook project.  It does provide some quantitative and qualitative trends regarding the use of Stack Overflow. Download the csv and ipynb files to have a go yourself and draw your own conclusions.
-
-![Screenshot](LanguagePopularity.jpg)
-
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me...
 
