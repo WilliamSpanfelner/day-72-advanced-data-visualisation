@@ -1,3 +1,4 @@
+![Screenshot](day-72-advanced-data-visualisation.png)
 # Charting the Popular Programming Languages with MatPlotLib, Pandas, Python in Colab Notebooks.
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
